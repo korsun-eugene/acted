@@ -18,7 +18,7 @@ npm run db:migrate
 npm run dev
 ```
 
-Open http://localhost:3000. To use an existing PostgreSQL instance, set `DATABASE_URL` in `.env` and skip Docker Compose. Create the database before running migrations.
+Open http://localhost:3000. To use an existing PostgreSQL instance, set `DATABASE_URL` in `.env` and skip Docker Compose. Create the database `partners` before running migrations.
 
 ## API
 
